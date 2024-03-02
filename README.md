@@ -5,8 +5,15 @@
 ## Background
 The Atliq Hardware is a computer & peripheral manufacturer and supplier. There clients are Surge Store, Nomad Stores, Excel Stores and Electrical Stores across India. The company has accumulated sales and transaction data spanning three years (2017 - 2020) for various products sold to customers in the India. The goal is to extract valuable insights from this dataset to aid decision-making and strategizing for the company'ss sales.
 
+## Model View 
+![Data Model](https://github.com/Gayatrijadhav30/Sales-Insights-Data-Analysis/assets/147386271/2372086e-1c6e-45e6-8a1a-6962253ea740)
 
-## Dashboard Preview:![AtliqSalesDashboard](https://github.com/Gayatrijadhav30/Sales-Insights-Data-Analysis/assets/147386271/114aa626-055f-4f48-b9f9-7d3c32c38901)
+
+
+
+## Dashboard Preview
+![AtliqSalesDashboard](https://github.com/Gayatrijadhav30/Sales-Insights-Data-Analysis/assets/147386271/114aa626-055f-4f48-b9f9-7d3c32c38901)
+
 
 ### Data Analysis Using SQL
 
