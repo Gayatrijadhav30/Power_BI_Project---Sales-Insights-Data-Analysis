@@ -1,9 +1,9 @@
 ## Sales Insights Data Analysis Project
 
-### Dashboard Link : https://app.powerbi.com/links/yIuEAb623v?ctid=cca3f0fe-586f-4426-a8bd-b8146307e738&pbi_source=linkShare
+### Dashboard Link : https://app.powerbi.com/view?r=eyJrIjoiZWQ4NzkwN2QtZDVlOS00MTk5LWIyNGYtZDA5YzMzZWM1OTU5IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&embedImagePlaceholder=true
 
 ## Background
-The Atliq Hardware is a computer & peripheral manufacturer and supplier. There clients are Surge Store, Nomad Stores, Excel Stores and Electricalsara Stores across India. has accumulated sales and transaction data spanning three years (2017 - 2020) for various products sold to customers in the India. The goal is to extract valuable insights from this dataset to aid decision-making and strategizing for the company.
+The Atliq Hardware is a computer & peripheral manufacturer and supplier. There clients are Surge Store, Nomad Stores, Excel Stores and Electrical Stores across India. The company has accumulated sales and transaction data spanning three years (2017 - 2020) for various products sold to customers in the India. The goal is to extract valuable insights from this dataset to aid decision-making and strategizing for the company'ss sales.
 
 ### Data Analysis Using SQL
 
